@@ -1,0 +1,11 @@
+C:\Users\rnovas002\source\repos\ejercicioTelefono001\ejercicioTelefono001\bin\Debug\ejercicioTelefono001.exe.config
+C:\Users\rnovas002\source\repos\ejercicioTelefono001\ejercicioTelefono001\bin\Debug\ejercicioTelefono001.exe
+C:\Users\rnovas002\source\repos\ejercicioTelefono001\ejercicioTelefono001\bin\Debug\ejercicioTelefono001.pdb
+C:\Users\rnovas002\source\repos\ejercicioTelefono001\ejercicioTelefono001\obj\Debug\ejercicioTelefono001.csproj.CoreCompileInputs.cache
+C:\Users\rnovas002\source\repos\ejercicioTelefono001\ejercicioTelefono001\obj\Debug\ejercicioTelefono001.exe
+C:\Users\rnovas002\source\repos\ejercicioTelefono001\ejercicioTelefono001\obj\Debug\ejercicioTelefono001.pdb
+C:\Users\rnovas002\source\repos\ejercicioTelefono001\ejercicioTelefono001\bin\Debug\nunit.framework.dll
+C:\Users\rnovas002\source\repos\ejercicioTelefono001\ejercicioTelefono001\bin\Debug\nunit.framework.pdb
+C:\Users\rnovas002\source\repos\ejercicioTelefono001\ejercicioTelefono001\bin\Debug\nunit.framework.xml
+C:\Users\rnovas002\source\repos\ejercicioTelefono001\ejercicioTelefono001\obj\Debug\ejercicioTelefono001.csproj.CopyComplete
+C:\Users\rnovas002\source\repos\ejercicioTelefono001\ejercicioTelefono001\obj\Debug\ejercicioTelefono001.csprojAssemblyReference.cache
